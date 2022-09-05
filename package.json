@@ -1,6 +1,6 @@
 {
   "name": "@guardian/svelte-scroller",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "description": "A <Scroller> component for Svelte apps",
   "svelte": "Scroller.svelte",
   "scripts": {
