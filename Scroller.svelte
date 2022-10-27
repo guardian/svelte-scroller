@@ -176,7 +176,7 @@
 		</svelte-scroller-background>
 	</svelte-scroller-background-container>
 
-	<svelte-scroller-foreground bind:this={foreground}>
+	<svelte-scroller-foreground class="scroller-foreground-container" bind:this={foreground}>
 		<slot name="foreground"></slot>
 	</svelte-scroller-foreground>
 </svelte-scroller-outer>
