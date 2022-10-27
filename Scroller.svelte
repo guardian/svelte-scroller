@@ -196,7 +196,7 @@
 	svelte-scroller-foreground {
 		display: block;
 		position: relative;
-		z-index: 2;
+		/* z-index: 2; */
 		pointer-events: none;
 	}
 
